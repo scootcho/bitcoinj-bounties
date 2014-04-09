@@ -9,7 +9,7 @@ Who we are
 
 We are two startups in the [PnP Bitcoin accelerator](http://www.coindesk.com/plug-play-unveils-bitcoin-startup-incubator-expert-mentors/). Both of our companies have a need in Multi-Sig support with HD Bitcoin wallets. We want to join forces and push the development of this technology in a fashion that is benficial to the Bitcoin ecosystem. One of our initiatives to achieve this is the issuence of bounties.
 
-We have deposited 5 BTC here:
+We have deposited 5 BTC [here](https://blockchain.info/address/1C2zaVZBwLfS4mJAgjKKVPp8xppVxeLTMN):
 ```
 1C2zaVZBwLfS4mJAgjKKVPp8xppVxeLTMN
 ```
