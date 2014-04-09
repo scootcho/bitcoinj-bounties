@@ -7,16 +7,20 @@ Who we are
 --- | ---
 ![CryptoTrustPoint](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/ctp.png "CryptoTrustPoint") | ![37Coins](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/37coins.png "37Coins")
 
-We are two startups in the [PnP Bitcoin accelerator](http://www.coindesk.com/plug-play-unveils-bitcoin-startup-incubator-expert-mentors/). Both of our companies have a need in Multi-Sig support with HD Bitcoin wallets. We want to join forces and push the development of this technology in a fashion that is benficial to the Bitcoin ecosystem. One of our initiatives to achieve this is the issuence of bounties.
+We are two startups recently selected for the [PnP Bitcoin accelerator](http://www.coindesk.com/plug-play-unveils-bitcoin-startup-incubator-expert-mentors/). Both of our companies have a requirement for Multi-Sig support with HD Bitcoin wallets. We want to join forces and push the development of this technology in a fashion that is benficial to the entire Bitcoin ecosystem. 
+
+One of our initiatives to achieve this is the issuence of bounties: Solve the issue, get paid!
 
 We have deposited 5 BTC [here](https://blockchain.info/address/1C2zaVZBwLfS4mJAgjKKVPp8xppVxeLTMN):
 ```
 1C2zaVZBwLfS4mJAgjKKVPp8xppVxeLTMN
 ```
 
-The funds in this address will be payed out to the amount stated on each issue. If we receive more donations to this address, we will create additional tasks and assign the funds to them.
+The funds in this address will be payed out for the amount stated on each issue. If we receive more donations to this address, we will create additional tasks and assign the funds and bounties to them.
 
-You don't have the right skills, but love Bitcoin? donations encouraged! :)
+As soon as technically feasible, we will implement a Multi-Sig voting pool to distribute the bounties.
+
+If you don't have the right skills, but love Bitcoin, we will graciously accept donations.
 
 
 What we need
