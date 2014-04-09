@@ -3,6 +3,9 @@ Accelerating Development of Married Wallets/BIP32 in [bitcoinj](https://github.c
 
 Who we are
 ----------
+[CryptoTrustPoint](http://www.cryptotrustpoint.com) | [37coins](https://www.37coins.com)
+--- | ---
+![CryptoTrustPoint](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/ctp.png "CryptoTrustPoint") | ![37Coins](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/37coins.png "37Coins")
 
 We are two startups in the [PnP Bitcoin accelerator](http://www.coindesk.com/plug-play-unveils-bitcoin-startup-incubator-expert-mentors/). Both of our companies have a need in Multi-Sig support with HD Bitcoin wallets. We want to join forces and push the development of this technology in a fashion that is benficial to the Bitcoin ecosystem. One of our initiatives to achieve this is the issuence of bounties.
 
