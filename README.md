@@ -1,7 +1,7 @@
 Multi-Sig BIP32 Wallets in [bitcoinj](https://github.com/bitcoinj/bitcoinj)
 =================
 
-This is a proposal for accelerating Development of Married Wallets.
+This is a proposal for accelerating development of Married Wallets.
 
 WHO WE ARE
 ----------
@@ -27,7 +27,7 @@ If you don't have the right skills, but love Bitcoin, we will graciously accept 
 
 WHAT WE NEED
 ------------
-We have researched implementations that suit our requirements for running mobile android wallets. We consider *bitcoinj* the most advanced and independent community driven implementation for mobile and want to focus our efforts on it. We are looking for like-minded developers with a good understanding of Bitcoin and it's underlying cryptography. The goal is the implementation of "married wallets" as described in this [design document by Mike Hearn](https://groups.google.com/forum/#!msg/bitcoinj/Uxl-z40OLuQ/e2m4mEWR6gMJ):
+We have researched implementations that suit our requirements for running mobile android wallets. We consider **bitcoinj** the most advanced and independent community driven implementation for mobile and want to focus our efforts on it. We are looking for like-minded developers with a good understanding of Bitcoin and it's underlying cryptography. The goal is the implementation of "married wallets" as described in this [design document by Mike Hearn](https://groups.google.com/forum/#!msg/bitcoinj/Uxl-z40OLuQ/e2m4mEWR6gMJ):
 
 https://groups.google.com/forum/#!msg/bitcoinj/Uxl-z40OLuQ/e2m4mEWR6gMJ
 
@@ -36,7 +36,7 @@ HOW TO CLAIM BOUNTIES
 ---------------------
 To claim bounties you will need solid Java skills.
 
-Start working on a bounty by adding a comment on any issues in in this Github project, along with how long you need to finish it and you bitcoin address. This way, bounties can be claimed on a first-come first-served manner, but others may attempt it if the original claimer cannot finish it in a reasonable time. You will need to clone the original [*bitcoinj* project](https://github.com/bitcoinj/bitcoinj), implement the requirements referenced in the issue following [coding conventions](https://code.google.com/p/bitcoinj/wiki/CodingConventions) and providing [unit tests](http://en.wikipedia.org/wiki/Unit_testing). The create a [pull request](https://help.github.com/articles/using-pull-requests) and have it reviewed by Mike Hearn. Once accepted, we will pay out the bounty.
+Start working on a bounty by adding a comment on any issues in in this Github project, along with your bitcoin address and how long you need to finish it. This way, bounties can be claimed on a first-come first-served manner, but others may attempt it if the original claimer cannot finish it in a reasonable time. You will need to clone the original [**bitcoinj** repository](https://github.com/bitcoinj/bitcoinj), implement the requirements referenced in the chosen issue. Having followed the [coding conventions](https://code.google.com/p/bitcoinj/wiki/CodingConventions) and provided [unit tests](http://en.wikipedia.org/wiki/Unit_testing) you then create a [pull request](https://help.github.com/articles/using-pull-requests) and have it reviewed by Mike Hearn. Once the pull request is accepted is to the upstream repository we will pay out the bounty.
 
 Here is a quick link to the issues: [bitcoinj bounties - issues](https://github.com/Btc4All/bitcoinj-bounties/issues)
 
