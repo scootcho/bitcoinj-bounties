@@ -38,5 +38,5 @@ To claim bounties you will need solid Java skills.
 
 Start working on a bounty by adding a comment on any issues in in this Github project, along with your bitcoin address and how long you need to finish it. This way, bounties can be claimed on a first-come first-served manner, but others may attempt it if the original claimer cannot finish it in a reasonable time. You will need to clone the original [**bitcoinj** repository](https://github.com/bitcoinj/bitcoinj), implement the requirements referenced in the chosen issue. Having followed the [coding conventions](https://code.google.com/p/bitcoinj/wiki/CodingConventions) and provided [unit tests](http://en.wikipedia.org/wiki/Unit_testing) you then create a [pull request](https://help.github.com/articles/using-pull-requests) and have it reviewed by Mike Hearn. Once the pull request is accepted into the upstream repository we will pay out the bounty.
 
-Here is a quick link to the issues: [bitcoinj bounties - issues](https://github.com/Btc4All/bitcoinj-bounties/issues)
+Here is a quick link to the issues: [bitcoinj bounties - issues](https://github.com/Btc4All/bitcoinj-bounties/issues?direction=asc&page=1&sort=created&state=open)
 
