@@ -1,5 +1,7 @@
-Accelerating Development of Married Wallets/BIP32 in [bitcoinj](https://github.com/bitcoinj/bitcoinj)
+Multi-Sig BIP32 Wallets in [bitcoinj](https://github.com/bitcoinj/bitcoinj)
 =================
+
+This is a proposal for accelerating Development of Married Wallets.
 
 WHO WE ARE
 ----------
