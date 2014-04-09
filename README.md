@@ -1,4 +1,4 @@
-Accelerating Development of Married Wallets/BIP32 in *bitcoinj*
+Accelerating Development of Married Wallets/BIP32 in [bitcoinj](https://github.com/bitcoinj/bitcoinj)
 =================
 
 Who we are
@@ -25,10 +25,10 @@ https://groups.google.com/forum/#!msg/bitcoinj/Uxl-z40OLuQ/e2m4mEWR6gMJ
 
 Howto claim Bounties
 --------------------
-To claim bounties you will need a solid skill in Java. Start working on a bounty by adding a comment on any issues in in this Github project, along with how long you need to finish it and you bitcoin address. This way, bounties can be claimed on a first-come first-served manner, but others may attempt it if the original claimer cannot finish it in a reasonable time. You will need to clone the original [*bitcoinj* project](https://github.com/bitcoinj/bitcoinj), implement the requirements referenced in the issue following coding guidelines and providing unit tests. The create a pull request and have it reviewed by Mike Hearn. Once accepted, we will pay out the bounty.
+To claim bounties you will need a solid skill in Java. Start working on a bounty by adding a comment on any issues in in this Github project, along with how long you need to finish it and you bitcoin address. This way, bounties can be claimed on a first-come first-served manner, but others may attempt it if the original claimer cannot finish it in a reasonable time. You will need to clone the original [*bitcoinj* project](https://github.com/bitcoinj/bitcoinj), implement the requirements referenced in the issue following [coding conventions](https://code.google.com/p/bitcoinj/wiki/CodingConventions) and providing [unit tests](http://en.wikipedia.org/wiki/Unit_testing). The create a [pull request](https://help.github.com/articles/using-pull-requests) and have it reviewed by Mike Hearn. Once accepted, we will pay out the bounty.
 
 
 [CryptoTrustPoint](http://www.cryptotrustpoint.com) | [37coins](https://www.37coins.com)
 --- | ---
-![CryptoTrustPoint](https://github.com/Btc4All/bitcoinj-bounties/img/ctp.png "CryptoTrustPoint") | ![37Coins](https://github.com/Btc4All/bitcoinj-bounties/img/37coins.png "37Coins")
+![CryptoTrustPoint](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/ctp.png "CryptoTrustPoint") | ![37Coins](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/37coins.png "37Coins")
 
