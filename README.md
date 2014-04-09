@@ -38,8 +38,3 @@ Start working on a bounty by adding a comment on any issues in in this Github pr
 
 Here is a quick link to the issues: [bitcoinj bounties - issues](https://github.com/Btc4All/bitcoinj-bounties/issues)
 
-
-[CryptoTrustPoint](http://www.cryptotrustpoint.com) | [37coins](https://www.37coins.com)
---- | ---
-![CryptoTrustPoint](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/ctp.png "CryptoTrustPoint") | ![37Coins](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/37coins.png "37Coins")
-
