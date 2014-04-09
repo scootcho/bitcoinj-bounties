@@ -1,7 +1,7 @@
 Accelerating Development of Married Wallets/BIP32 in [bitcoinj](https://github.com/bitcoinj/bitcoinj)
 =================
 
-Who we are
+WHO WE ARE
 ----------
 [CryptoTrustPoint](http://www.cryptotrustpoint.com) | [37coins](https://www.37coins.com)
 --- | ---
@@ -20,7 +20,7 @@ The funds in this address will be payed out for the amount stated on each issue.
 
 As soon as technically feasible, we will implement a Multi-Sig voting pool to distribute the bounties.
 
-If you don't have the right skills, but love Bitcoin, we will graciously accept donations.
+If you don't have the right skills, but love Bitcoin, we will graciously accept donations   :-)
 
 
 WHAT WE NEED
