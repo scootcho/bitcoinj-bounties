@@ -7,8 +7,7 @@ WHO WE ARE
 ----------
 [CryptoTrustPoint](http://www.cryptotrustpoint.com) | [37coins](https://www.37coins.com) | [Novelty Lab](http://noveltylab.com/)
 --- | --- | ---
-![CryptoTrustPoint](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/ctp.png "CryptoTrustPoint") | ![37Coins](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/37coins.png "37Coins") | 
-![Novelty Lab](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/nl.png "Novelty Lab")
+![CryptoTrustPoint](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/ctp.png "CryptoTrustPoint") | ![37Coins](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/37coins.png "37Coins") | ![Novelty Lab](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/nl.png "Novelty Lab")
 
 We are three startups recently selected for the [PnP Bitcoin accelerator](http://www.coindesk.com/plug-play-unveils-bitcoin-startup-incubator-expert-mentors/). All of our companies have a requirement for Multi-Sig support with HD Bitcoin wallets. We want to join forces and push the development of this technology in a fashion that is benficial to the entire Bitcoin ecosystem. 
 
