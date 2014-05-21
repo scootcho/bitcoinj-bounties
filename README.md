@@ -13,7 +13,7 @@ We are three startups recently selected for the [PnP Bitcoin accelerator](http:/
 
 One of our initiatives to achieve this is the issuence of bounties: Solve the issue, get paid!
 
-We have deposited 5 BTC [here](https://blockchain.info/address/1C2zaVZBwLfS4mJAgjKKVPp8xppVxeLTMN):
+We have deposited 3 BTC [here](https://blockchain.info/address/1C2zaVZBwLfS4mJAgjKKVPp8xppVxeLTMN):
 ```
 1C2zaVZBwLfS4mJAgjKKVPp8xppVxeLTMN
 ```
