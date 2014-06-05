@@ -5,9 +5,9 @@ This is a proposal for accelerating development of Married Wallets. We believe t
 
 WHO WE ARE
 ----------
-[CryptoTrustPoint](http://www.cryptotrustpoint.com) | [37coins](https://www.37coins.com) | [Novelty Lab](http://noveltylab.com/)
+[PeerPal](http://www.PeerPal.co) | [37coins](https://www.37coins.com) | [Novelty Lab](http://noveltylab.com/)
 --- | --- | ---
-![CryptoTrustPoint](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/ctp.png "CryptoTrustPoint") | ![37Coins](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/37coins_logo.png "37Coins") | ![Novelty Lab](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/nl.png "Novelty Lab")
+![Peerpal](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/pp.png "PeerPal") | ![37Coins](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/37coins_logo.png "37Coins") | ![Novelty Lab](https://raw.github.com/Btc4All/bitcoinj-bounties/master/img/nl.png "Novelty Lab")
 
 We are three startups recently selected for the [PnP Bitcoin accelerator](http://www.coindesk.com/plug-play-unveils-bitcoin-startup-incubator-expert-mentors/). All of our companies have a requirement for Multi-Sig support with HD Bitcoin wallets. We want to join forces and push the development of this technology in a fashion that is benficial to the entire Bitcoin ecosystem. 
 
